@@ -4,7 +4,8 @@
 - 📫 How to reach me email: arsenelin2011@gmail.com
 
 - Education: Master of Electrical and Computer Engineering at Northeastern University
-- Skills: Well programming in C++, C, Python, R
+- Skills: Well programming in C++, C, Python
+- Current learning: R, JS, React
 
 <!---
 MakiseYuki/MakiseYuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
